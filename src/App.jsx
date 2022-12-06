@@ -10,7 +10,7 @@ const App = () => {
     <>
       <h1 style={{ color: "red" }}>こんにちわ!</h1>
       <ColorfulMessage color="blue">
-        元気があればなんでもできる！"{" "}
+        元気があればなんでもできる！
       </ColorfulMessage>
       <ColorfulMessage color="pink">1, 2, 3 ダー!</ColorfulMessage>
       <button onClick={onClickButton}>ボタン</button>
